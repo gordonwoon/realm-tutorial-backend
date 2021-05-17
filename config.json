@@ -1,6 +1,7 @@
 {
+    "app_id": "task-tracker-xyfbf",
     "config_version": 20200603,
-    "name": "tasktracker",
+    "name": "task-tracker",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
     "security": {},
